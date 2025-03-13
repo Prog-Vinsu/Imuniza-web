@@ -21,13 +21,13 @@ O Imuniza-Web é um sistema completo para gestão de vacinação e registro de m
 ## 🚀 Tecnologias Utilizadas
 
 ### Backend
-- PHP 8.x
-- Laravel 10.x
+- PHP 8.3.11
+- Laravel 5.8.3
 - MySQL (Banco de dados relacional)
 - RESTful API
 
 ### Frontend
-- React 18.x
+- React 19
 - Context API para gerenciamento de estado
 - React Router para navegação
 - Styled Components/Tailwind CSS para estilização
@@ -35,9 +35,9 @@ O Imuniza-Web é um sistema completo para gestão de vacinação e registro de m
 ## 🔧 Instalação e Configuração
 
 ### Pré-requisitos
-- PHP 8.0 ou superior
+- PHP 8.3
 - Composer
-- Node.js 16.x ou superior
+- Node.js 22
 - npm ou yarn
 - MySQL
 
