@@ -45,7 +45,7 @@ O Imuniza-Web é um sistema completo para gestão de vacinação e registro de m
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/imuniza-web.git
+git clone https://github.com/Prog-Vinsu/Imuniza-web.git
 cd imuniza-web
 ```
 
