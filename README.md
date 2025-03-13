@@ -1,5 +1,7 @@
 # Imuniza-Web
 
+![Imuniza](https://github.com/user-attachments/assets/6f08f473-ed00-4adb-9015-73fe7e18da82)
+
 ## Sistema de Vacinação e Gestão de Moradores
 
 
